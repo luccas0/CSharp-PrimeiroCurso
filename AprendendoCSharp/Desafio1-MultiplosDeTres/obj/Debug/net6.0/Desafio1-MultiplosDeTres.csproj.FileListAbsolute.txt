@@ -1,0 +1,15 @@
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio1-MultiplosDeTres\bin\Debug\net6.0\Desafio1-MultiplosDeTres.exe
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio1-MultiplosDeTres\bin\Debug\net6.0\Desafio1-MultiplosDeTres.deps.json
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio1-MultiplosDeTres\bin\Debug\net6.0\Desafio1-MultiplosDeTres.runtimeconfig.json
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio1-MultiplosDeTres\bin\Debug\net6.0\Desafio1-MultiplosDeTres.dll
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio1-MultiplosDeTres\bin\Debug\net6.0\Desafio1-MultiplosDeTres.pdb
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio1-MultiplosDeTres\obj\Debug\net6.0\Desafio1-MultiplosDeTres.csproj.AssemblyReference.cache
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio1-MultiplosDeTres\obj\Debug\net6.0\Desafio1-MultiplosDeTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio1-MultiplosDeTres\obj\Debug\net6.0\Desafio1-MultiplosDeTres.AssemblyInfoInputs.cache
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio1-MultiplosDeTres\obj\Debug\net6.0\Desafio1-MultiplosDeTres.AssemblyInfo.cs
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio1-MultiplosDeTres\obj\Debug\net6.0\Desafio1-MultiplosDeTres.csproj.CoreCompileInputs.cache
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio1-MultiplosDeTres\obj\Debug\net6.0\Desafio1-MultiplosDeTres.dll
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio1-MultiplosDeTres\obj\Debug\net6.0\refint\Desafio1-MultiplosDeTres.dll
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio1-MultiplosDeTres\obj\Debug\net6.0\Desafio1-MultiplosDeTres.pdb
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio1-MultiplosDeTres\obj\Debug\net6.0\Desafio1-MultiplosDeTres.genruntimeconfig.cache
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio1-MultiplosDeTres\obj\Debug\net6.0\ref\Desafio1-MultiplosDeTres.dll

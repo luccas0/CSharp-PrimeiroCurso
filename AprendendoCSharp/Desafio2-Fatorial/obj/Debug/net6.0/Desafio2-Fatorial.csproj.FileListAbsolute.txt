@@ -1,0 +1,15 @@
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio2-Fatorial\bin\Debug\net6.0\Desafio2-Fatorial.exe
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio2-Fatorial\bin\Debug\net6.0\Desafio2-Fatorial.deps.json
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio2-Fatorial\bin\Debug\net6.0\Desafio2-Fatorial.runtimeconfig.json
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio2-Fatorial\bin\Debug\net6.0\Desafio2-Fatorial.dll
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio2-Fatorial\bin\Debug\net6.0\Desafio2-Fatorial.pdb
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio2-Fatorial\obj\Debug\net6.0\Desafio2-Fatorial.csproj.AssemblyReference.cache
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio2-Fatorial\obj\Debug\net6.0\Desafio2-Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio2-Fatorial\obj\Debug\net6.0\Desafio2-Fatorial.AssemblyInfoInputs.cache
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio2-Fatorial\obj\Debug\net6.0\Desafio2-Fatorial.AssemblyInfo.cs
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio2-Fatorial\obj\Debug\net6.0\Desafio2-Fatorial.csproj.CoreCompileInputs.cache
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio2-Fatorial\obj\Debug\net6.0\Desafio2-Fatorial.dll
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio2-Fatorial\obj\Debug\net6.0\refint\Desafio2-Fatorial.dll
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio2-Fatorial\obj\Debug\net6.0\Desafio2-Fatorial.pdb
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio2-Fatorial\obj\Debug\net6.0\Desafio2-Fatorial.genruntimeconfig.cache
+C:\Projetos\treinamento1\AprendendoCSharp\Desafio2-Fatorial\obj\Debug\net6.0\ref\Desafio2-Fatorial.dll

@@ -1,0 +1,15 @@
+C:\Projetos\treinamento1\AprendendoCSharp\ImpostoDeRenda\bin\Debug\net6.0\ImpostoDeRenda.exe
+C:\Projetos\treinamento1\AprendendoCSharp\ImpostoDeRenda\bin\Debug\net6.0\ImpostoDeRenda.deps.json
+C:\Projetos\treinamento1\AprendendoCSharp\ImpostoDeRenda\bin\Debug\net6.0\ImpostoDeRenda.runtimeconfig.json
+C:\Projetos\treinamento1\AprendendoCSharp\ImpostoDeRenda\bin\Debug\net6.0\ImpostoDeRenda.dll
+C:\Projetos\treinamento1\AprendendoCSharp\ImpostoDeRenda\bin\Debug\net6.0\ImpostoDeRenda.pdb
+C:\Projetos\treinamento1\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.csproj.AssemblyReference.cache
+C:\Projetos\treinamento1\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\treinamento1\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.AssemblyInfoInputs.cache
+C:\Projetos\treinamento1\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.AssemblyInfo.cs
+C:\Projetos\treinamento1\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.csproj.CoreCompileInputs.cache
+C:\Projetos\treinamento1\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.dll
+C:\Projetos\treinamento1\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\refint\ImpostoDeRenda.dll
+C:\Projetos\treinamento1\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.pdb
+C:\Projetos\treinamento1\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.genruntimeconfig.cache
+C:\Projetos\treinamento1\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ref\ImpostoDeRenda.dll

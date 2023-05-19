@@ -1,0 +1,15 @@
+C:\Projetos\treinamento1\AprendendoCSharp\P11-CalculaPoupanca2\bin\Debug\net6.0\P11-CalculaPoupanca2.exe
+C:\Projetos\treinamento1\AprendendoCSharp\P11-CalculaPoupanca2\bin\Debug\net6.0\P11-CalculaPoupanca2.deps.json
+C:\Projetos\treinamento1\AprendendoCSharp\P11-CalculaPoupanca2\bin\Debug\net6.0\P11-CalculaPoupanca2.runtimeconfig.json
+C:\Projetos\treinamento1\AprendendoCSharp\P11-CalculaPoupanca2\bin\Debug\net6.0\P11-CalculaPoupanca2.dll
+C:\Projetos\treinamento1\AprendendoCSharp\P11-CalculaPoupanca2\bin\Debug\net6.0\P11-CalculaPoupanca2.pdb
+C:\Projetos\treinamento1\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\P11-CalculaPoupanca2.csproj.AssemblyReference.cache
+C:\Projetos\treinamento1\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\P11-CalculaPoupanca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\treinamento1\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\P11-CalculaPoupanca2.AssemblyInfoInputs.cache
+C:\Projetos\treinamento1\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\P11-CalculaPoupanca2.AssemblyInfo.cs
+C:\Projetos\treinamento1\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\P11-CalculaPoupanca2.csproj.CoreCompileInputs.cache
+C:\Projetos\treinamento1\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\P11-CalculaPoupanca2.dll
+C:\Projetos\treinamento1\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\refint\P11-CalculaPoupanca2.dll
+C:\Projetos\treinamento1\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\P11-CalculaPoupanca2.pdb
+C:\Projetos\treinamento1\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\P11-CalculaPoupanca2.genruntimeconfig.cache
+C:\Projetos\treinamento1\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net6.0\ref\P11-CalculaPoupanca2.dll

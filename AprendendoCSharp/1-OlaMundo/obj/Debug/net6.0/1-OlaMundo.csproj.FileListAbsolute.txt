@@ -1,0 +1,15 @@
+C:\Projetos\treinamento1\AprendendoCSharp\1-OlaMundo\bin\Debug\net6.0\1-OlaMundo.exe
+C:\Projetos\treinamento1\AprendendoCSharp\1-OlaMundo\bin\Debug\net6.0\1-OlaMundo.deps.json
+C:\Projetos\treinamento1\AprendendoCSharp\1-OlaMundo\bin\Debug\net6.0\1-OlaMundo.runtimeconfig.json
+C:\Projetos\treinamento1\AprendendoCSharp\1-OlaMundo\bin\Debug\net6.0\1-OlaMundo.dll
+C:\Projetos\treinamento1\AprendendoCSharp\1-OlaMundo\bin\Debug\net6.0\1-OlaMundo.pdb
+C:\Projetos\treinamento1\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-OlaMundo.csproj.AssemblyReference.cache
+C:\Projetos\treinamento1\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\treinamento1\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-OlaMundo.AssemblyInfoInputs.cache
+C:\Projetos\treinamento1\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-OlaMundo.AssemblyInfo.cs
+C:\Projetos\treinamento1\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-OlaMundo.csproj.CoreCompileInputs.cache
+C:\Projetos\treinamento1\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-OlaMundo.dll
+C:\Projetos\treinamento1\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\refint\1-OlaMundo.dll
+C:\Projetos\treinamento1\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-OlaMundo.pdb
+C:\Projetos\treinamento1\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-OlaMundo.genruntimeconfig.cache
+C:\Projetos\treinamento1\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\ref\1-OlaMundo.dll
